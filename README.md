@@ -1,2 +1,1 @@
-# sliding
-Capiner Sliding
+# Capiner Sliding
